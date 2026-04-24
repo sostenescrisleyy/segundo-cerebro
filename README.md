@@ -8,13 +8,15 @@ Base de conhecimento técnico e estratégico integrada ao Claude Code.
 
 ## Setup
 
-Clone o repositório **exatamente neste caminho** para que o Claude Code encontre o vault automaticamente:
+Clone o repositório **exatamente neste caminho** e rode o script de configuração:
 
 ```bash
 git clone https://github.com/sostenescrisleyy/segundo-cerebro.git ~/Desktop/segundo-cerebro
+cd ~/Desktop/segundo-cerebro
+bash setup.sh
 ```
 
-O Claude Code verifica a existência do vault ao iniciar cada sessão e avisa caso ele não esteja instalado.
+O `setup.sh` configura o `~/.claude/CLAUDE.md` global para que o Claude Code consulte o vault automaticamente em **qualquer projeto**. Só precisa rodar uma vez.
 
 ---
 
