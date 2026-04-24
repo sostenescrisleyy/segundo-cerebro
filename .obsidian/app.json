@@ -1,0 +1,9 @@
+{
+  "promptDelete": false,
+  "trashOption": "local",
+  "defaultViewMode": "preview",
+  "livePreview": true,
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": false,
+  "alwaysUpdateLinks": true
+}

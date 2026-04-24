@@ -1,0 +1,27 @@
+:root {
+  --ia:      #a855f7;
+  --backend: #22c55e;
+  --front:   #3b82f6;
+  --anim:    #ec4899;
+  --mobile:  #f43f5e;
+  --dev:     #f59e0b;
+  --design:  #f97316;
+}
+
+.tag[href="#ia-apis"]   { background: var(--ia)      !important; color:#fff!important; border-radius:4px; }
+.tag[href="#backend"]   { background: var(--backend)  !important; color:#fff!important; border-radius:4px; }
+.tag[href="#frontend"]  { background: var(--front)    !important; color:#fff!important; border-radius:4px; }
+.tag[href="#animacoes"] { background: var(--anim)     !important; color:#fff!important; border-radius:4px; }
+.tag[href="#mobile"]    { background: var(--mobile)   !important; color:#fff!important; border-radius:4px; }
+.tag[href="#devtools"]  { background: var(--dev)      !important; color:#fff!important; border-radius:4px; }
+.tag[href="#design"]    { background: var(--design)   !important; color:#fff!important; border-radius:4px; }
+
+.internal-link {
+  border-bottom: 1px dotted #64748b;
+  text-decoration: none;
+}
+
+.markdown-preview-view h1 {
+  border-left: 4px solid var(--ia);
+  padding-left: 0.75rem;
+}
