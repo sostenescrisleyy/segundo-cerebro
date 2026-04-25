@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bfae11c8f9f2889a",
+        "id": "e1ec042ae1ccff62",
         "type": "tabs",
         "children": [
           {
-            "id": "leaf-main",
+            "id": "653d895ce5161a79",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CLAUDE.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CLAUDE"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
             }
           }
         ]
@@ -109,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CLAUDE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para CLAUDE"
+              "title": "Links inversos"
             }
           },
           {
@@ -142,13 +137,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CLAUDE.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de CLAUDE"
+              "title": "Sumário"
             }
           }
         ]
@@ -166,9 +160,45 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "leaf-main",
+  "active": "653d895ce5161a79",
   "lastOpenFiles": [
+    "Backend/Evolution API WhatsApp/Referencias/troubleshooting.md",
+    "DevTools/Code Review Graph/README.md",
+    "CLAUDE.md",
     "README.md",
-    "CLAUDE.md"
+    "Agentes/SEO Specialist/README.md",
+    "Agentes/Product Manager/README.md",
+    "Agentes/Planejador de Projeto/README.md",
+    "Agentes/Performance Web/README.md",
+    "Agentes/Performance Imagens/README.md",
+    "Agentes/Orquestrador/README.md",
+    "Agentes/Hostinger Email/README.md",
+    "Agentes/Game Developer/README.md",
+    "Agentes/Explorador de Codebase/README.md",
+    "Agentes/Documentacao/README.md",
+    "Agentes/Engenheiro de Testes/README.md",
+    "Agentes/Debugger/README.md",
+    "Agentes/DevOps Engineer/README.md",
+    "Agentes/Auditor de Seguranca/README.md",
+    "Agentes/Auditoria IA/README.md",
+    "Agentes/Arquiteto de Banco/README.md",
+    "Agentes/Arqueologista de Codigo/README.md",
+    "Agentes/SEO Specialist",
+    "Agentes/README.md",
+    "Agentes/Product Manager",
+    "Agentes/Planejador de Projeto",
+    "Agentes/Performance Web",
+    "Agentes/Performance Imagens",
+    "Agentes/Orquestrador",
+    "Agentes/Hostinger Email",
+    "Agentes/Game Developer",
+    "Agentes/Explorador de Codebase",
+    "Agentes/Documentacao",
+    "Design e Negocio/Classificacao Tipografica/Referencias/font-pairing.md",
+    "Design e Negocio/Classificacao Tipografica/Referencias/classificacao-detalhada.md",
+    "Design e Negocio/Classificacao Tipografica/Referencias/arquetipos-marca.md",
+    "Design e Negocio/Briefing Identidade Visual/Referencias/processo-comercial.md",
+    "Sem título 1.canvas",
+    "Sem título.canvas"
   ]
 }

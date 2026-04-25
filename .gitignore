@@ -1,3 +1,15 @@
+# Obsidian runtime state
 .obsidian/workspace.json
 .obsidian/graph.json
+.obsidian/workspace-mobile.json
 .trash/
+
+# Claude Code runtime
+.claude/worktrees/
+.claude/todos/
+
+# OS
+.DS_Store
+**/.DS_Store
+Thumbs.db
+desktop.ini

@@ -55,6 +55,13 @@
         "a": 1,
         "rgb": 16347926
       }
+    },
+    {
+      "query": "tag:agentes",
+      "color": {
+        "a": 1,
+        "rgb": 3394815
+      }
     }
   ],
   "collapse-display": false,
@@ -67,6 +74,6 @@
   "repelStrength": 15,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.46687798650826046,
+  "scale": 0.3626226116731274,
   "close": true
 }
