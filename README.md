@@ -2,7 +2,7 @@
 
 Base de conhecimento técnico e estratégico integrada ao Claude Code.
 
-> 36 skills · 7 categorias
+> 54 skills · 8 categorias
 
 ---
 
@@ -75,3 +75,23 @@ O `setup.sh` configura o `~/.claude/CLAUDE.md` global para que o Claude Code con
 
 - [Classificação Tipográfica](🎯%20Design%20e%20Negocio/Classificacao%20Tipografica/README.md)
 - [Briefing Identidade Visual](🎯%20Design%20e%20Negocio/Briefing%20Identidade%20Visual/README.md)
+
+## 🤖 Agentes
+
+- [Orquestrador](🤖%20Agentes/Orquestrador/README.md)
+- [Explorador de Codebase](🤖%20Agentes/Explorador%20de%20Codebase/README.md)
+- [Planejador de Projeto](🤖%20Agentes/Planejador%20de%20Projeto/README.md)
+- [Arqueologista de Codigo](🤖%20Agentes/Arqueologista%20de%20Codigo/README.md)
+- [Arquiteto de Banco](🤖%20Agentes/Arquiteto%20de%20Banco/README.md)
+- [Auditor de Seguranca](🤖%20Agentes/Auditor%20de%20Seguranca/README.md)
+- [Auditoria IA](🤖%20Agentes/Auditoria%20IA/README.md)
+- [Debugger](🤖%20Agentes/Debugger/README.md)
+- [DevOps Engineer](🤖%20Agentes/DevOps%20Engineer/README.md)
+- [Documentacao](🤖%20Agentes/Documentacao/README.md)
+- [Engenheiro de Testes](🤖%20Agentes/Engenheiro%20de%20Testes/README.md)
+- [Game Developer](🤖%20Agentes/Game%20Developer/README.md)
+- [Hostinger Email](🤖%20Agentes/Hostinger%20Email/README.md)
+- [Performance Imagens](🤖%20Agentes/Performance%20Imagens/README.md)
+- [Performance Web](🤖%20Agentes/Performance%20Web/README.md)
+- [Product Manager](🤖%20Agentes/Product%20Manager/README.md)
+- [SEO Specialist](🤖%20Agentes/SEO%20Specialist/README.md)
